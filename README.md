@@ -1,3 +1,4 @@
 # git_test
-!Odin Project
+https://img.shields.io/badge/Odin-Foundations-brightgreen
+
 Hello Odin!
